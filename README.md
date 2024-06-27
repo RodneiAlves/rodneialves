@@ -19,10 +19,7 @@
   <img align="center" alt="GitHub" height="30" width="40" src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png">
 
 </div>
-<div>
-![snake gif](https://github.com/RodneiAlves/RodneiAlves/blob/output/github-contribution-grid-snake.gif)
- 
-</div>
+
 
 
 
